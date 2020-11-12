@@ -25,9 +25,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.DoppFour">
-    <configuration name="DopFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DopFour" />
+  <component name="RunManager" selected="Application.DoppFive">
+    <configuration name="DoppFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoppFive" />
       <module name="1.8 Home Work" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,11 +63,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoppFive" />
         <item itemvalue="Application.DoppFour" />
         <item itemvalue="Application.DoppThree" />
         <item itemvalue="Application.DoppTwo" />
         <item itemvalue="Application.DoppOne" />
-        <item itemvalue="Application.DopFour" />
       </list>
     </recent_temporary>
   </component>

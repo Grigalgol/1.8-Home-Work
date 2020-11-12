@@ -25,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.DoppOne">
+  <component name="RunManager" selected="Application.DoppTwo">
     <configuration name="DopFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DopFour" />
       <module name="1.8 Home Work" />
@@ -47,13 +47,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DopTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DopTwo" />
-      <module name="1.8 Home Work" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DoppOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoppOne" />
       <module name="1.8 Home Work" />
@@ -61,13 +54,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DoppTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoppTwo" />
+      <module name="1.8 Home Work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoppTwo" />
         <item itemvalue="Application.DoppOne" />
         <item itemvalue="Application.DopFour" />
         <item itemvalue="Application.DopThree" />
         <item itemvalue="Application.DopTree" />
-        <item itemvalue="Application.DopTwo" />
       </list>
     </recent_temporary>
   </component>

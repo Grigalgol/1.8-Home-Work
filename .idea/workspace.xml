@@ -25,7 +25,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Seven">
+  <component name="RunManager" selected="Application.DopOne">
+    <configuration name="DopOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DopOne" />
+      <module name="1.8 Home Work" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Five" />
       <module name="1.8 Home Work" />
@@ -54,20 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Three" />
-      <module name="1.8 Home Work" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DopOne" />
         <item itemvalue="Application.Seven" />
         <item itemvalue="Application.Six" />
         <item itemvalue="Application.Five" />
         <item itemvalue="Application.Four" />
-        <item itemvalue="Application.Three" />
       </list>
     </recent_temporary>
   </component>
@@ -83,22 +83,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1478" height="210" key="GridCell.Tab.0.bottom" timestamp="1605213071541">
+    <state width="1478" height="210" key="GridCell.Tab.0.bottom" timestamp="1605215663803">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605213071541" />
-    <state width="1478" height="210" key="GridCell.Tab.0.center" timestamp="1605213071541">
+    <state width="1478" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605215663803" />
+    <state width="1478" height="210" key="GridCell.Tab.0.center" timestamp="1605215663802">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605213071541" />
-    <state width="1478" height="210" key="GridCell.Tab.0.left" timestamp="1605213071541">
+    <state width="1478" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605215663802" />
+    <state width="1478" height="210" key="GridCell.Tab.0.left" timestamp="1605215663802">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605213071541" />
-    <state width="1478" height="210" key="GridCell.Tab.0.right" timestamp="1605213071541">
+    <state width="1478" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605215663802" />
+    <state width="1478" height="210" key="GridCell.Tab.0.right" timestamp="1605215663802">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1478" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605213071541" />
+    <state width="1478" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605215663802" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1605215210087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
